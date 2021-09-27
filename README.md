@@ -20,6 +20,7 @@ Member functions are the functions that are declared inside the class. Member fu
 Objects are the instance of a class. Here we are using objects to access member functions of a class. These member functions are accessible to the classes, other than their own class because of the presence of inheritance.
   <br>4.	Inheritance<br>
 Inheritance is the mechanism for constructing new class types from existing class types. The game uses inheritance to enable the code reusability again and again without writing the whole code every time for various functions. The type of inheritance used here is ‘Multiple Inheritance’, where one base class inherits multiple parent classes.
+  <br><img src="https://github.com/Hrithik-Nigam/Treasure-hunt/blob/main/Paths.png"><img src="https://github.com/Hrithik-Nigam/Treasure-hunt/blob/main/path2.png">
   <br>5.	Access Specifiers<br>
 Access specifiers are used to limit or grant access of attributes of a class to another class, other functions and main function. Access specifiers are also used to specify the type of inheritance between various classes. To enable easy access of members of a parent class to the base class, all the access specifiers are set to ‘public’.
  <br> 6.	Attributes <br>
